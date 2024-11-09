@@ -1,1 +1,7 @@
- 
+biopython
+scikit-learn
+pandas
+matplotlib
+joblib
+numpy
+
