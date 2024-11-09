@@ -24,19 +24,13 @@ We recommend setting up a virtual environment for the project. You can either us
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-org/ebola-prediction.git
-    cd ebola-prediction
+    git clone https://github.com/Waghati/ebola_prediction_project.git
+    cd ebola_prediction_project
     ```
 
 2. Install the dependencies:
     ```bash
     pip install -r requirements.txt
-    ```
-
-    Or, if using `conda`:
-    ```bash
-    conda env create -f environment.yml
-    conda activate ebola-prediction
     ```
 
 ### Data Setup
